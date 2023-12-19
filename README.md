@@ -58,6 +58,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=black"> 
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=black">
         <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=black">
+        <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
         <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=ONNX&logoColor=white">
         <img src="https://img.shields.io/badge/OpenCV-005CED?style=for-the-badge&logo=OpenCV&logoColor=white">
         <img src="https://img.shields.io/badge/HuggingFace-ECD53F?style=for-the-badge&logo=F-Droid&logoColor=white">
