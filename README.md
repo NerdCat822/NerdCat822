@@ -22,7 +22,6 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">  
         <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=black"> 
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
     </div>
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
@@ -54,7 +53,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
     </div>
     <!-- AI -->
-    <p><strong>AI FrameWork</strong></p>
+    <p><strong>AI</strong></p>
     <div>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=black"> 
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=black">
@@ -64,8 +63,8 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/HuggingFace-ECD53F?style=for-the-badge&logo=F-Droid&logoColor=white">
         <img src="https://img.shields.io/badge/LangChain-412991?style=for-the-badge&logo=OpenAI&logoColor=white">
     </div>
-    <!-- Comunication -->
-    <p><strong>Comunication</strong></p>
+    <!-- Communication -->
+    <p><strong>Communication</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
