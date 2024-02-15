@@ -80,9 +80,6 @@ Here are some ideas to get you started:
 </div>
 
 
-[![NerdCat822's GitHub stats](https://github-readme-stats.vercel.app/api?username=NerdCat822&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/NerdCat822/github-readme-stats)
-
-
 <br>
 
 ## 💻 DEV's log 💻
