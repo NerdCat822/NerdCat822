@@ -20,8 +20,6 @@ Here are some ideas to get you started:
     <p><strong>Language</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">  
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=black"> 
     </div>
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
