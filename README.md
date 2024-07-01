@@ -57,6 +57,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/OpenCV-005CED?style=for-the-badge&logo=OpenCV&logoColor=white">
         <img src="https://img.shields.io/badge/HuggingFace-ECD53F?style=for-the-badge&logo=F-Droid&logoColor=white">
         <img src="https://img.shields.io/badge/LangChain-412991?style=for-the-badge&logo=OpenAI&logoColor=white">
+        <img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=Ray&logoColor=white">
     </div>
     <!-- Communication -->
     <p><strong>Communication</strong></p>
