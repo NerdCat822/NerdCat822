@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... PeoplesLeague
+- 🔭 I’m currently working on ... NICEzinidata (AI Agent)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20NerdCat822's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
+## 🧑‍💻 About Me 🧑‍💻
+- 🏢 **AI Agent Engineer @ NICEzinidata** (ex-PeoplesLeague)
+- 🤖 Building LLM-based agents with LangGraph, vLLM, and fine-tuned open models
+
 ## 🔨 Once I've used and currently learning ...🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Language -->
@@ -21,6 +25,8 @@ Here are some ideas to get you started:
     <div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
     </div>
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
@@ -29,12 +35,19 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
     </div>
+    <!-- Mobile -->
+    <p><strong>Mobile</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=React&logoColor=61DAFB">
+    </div>
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
