@@ -20,11 +20,14 @@ Here are some ideas to get you started:
     <p><strong>Language</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white">
     </div>
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
     <div> 
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
     </div>
     <!-- Backend -->
     <p><strong>Backend</strong></p>
@@ -38,6 +41,7 @@ Here are some ideas to get you started:
     <div>
         <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
     </div>
     <!-- Server -->
     <p><strong>Server</strong></p>
@@ -57,6 +61,8 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/OpenCV-005CED?style=for-the-badge&logo=OpenCV&logoColor=white">
         <img src="https://img.shields.io/badge/HuggingFace-ECD53F?style=for-the-badge&logo=F-Droid&logoColor=white">
         <img src="https://img.shields.io/badge/LangChain-412991?style=for-the-badge&logo=OpenAI&logoColor=white">
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=LangGraph&logoColor=white">
+        <img src="https://img.shields.io/badge/vLLM-6B4FBB?style=for-the-badge&logoColor=white">
     </div>
     <!-- Communication -->
     <p><strong>Communication</strong></p>
