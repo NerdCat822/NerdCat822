@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 - 🏢 **AI Agent Engineer @ NICEzinidata**
 - 🤖 Building LLM-based agents with LangGraph, vLLM, and fine-tuned open models on AWS
 
+## 🐍 Contributions 🐍
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NerdCat822/NerdCat822/output/github-snake-dark.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/NerdCat822/NerdCat822/output/github-snake.svg">
+</picture>
+
 ## 🔨 Once I've used and currently learning ...🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Language -->
