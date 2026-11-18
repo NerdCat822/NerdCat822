@@ -60,7 +60,7 @@ Here are some ideas to get you started:
     <p><strong>Server</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"> 
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
     </div>
     <!-- AI -->
@@ -88,7 +88,7 @@ Here are some ideas to get you started:
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache Airflow&logoColor=black"> 
+        <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"> 
     </div><br>
 </div>
 
@@ -96,15 +96,11 @@ Here are some ideas to get you started:
 <br>
 
 ## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
+<div>
     <a href="https://nerdcat822.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=NerdCat822&theme=default)](https://nerdcat822.tistory.com/)
 </div><br>
 
 ## 📞 Contact 📞
 ### gusrbaos33@naver.com
-    
-</div><br>
